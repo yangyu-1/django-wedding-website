@@ -6,7 +6,6 @@ localsettings.py
 *.sqlite3
 _working/
 data/
-static/
 guests/static/save-the-date/images/archive/
 venv/
 .vscode/
